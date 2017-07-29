@@ -39,6 +39,5 @@ def rot13(s):
 
     return result
 
-# Test method
+# Print result
 print(rot13(message))
-#print(rot13(rot13(message)))
